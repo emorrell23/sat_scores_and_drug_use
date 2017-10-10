@@ -37,7 +37,7 @@ We will be looking for the following things:
 
 ## Project Feedback + Evaluation
 
-For all projects, students will be evaluated on a simple 3 point scale (0, 1, or 2). Instructors will use this rubric when scoring student performance on each of the core project **requirements:** 
+For all projects, students will be evaluated on a simple 4 point scale (0-3 inclusive). Instructors will use this rubric when scoring student performance on each of the core project **requirements:** 
 
 Score | Expectations
 ----- | ------------
