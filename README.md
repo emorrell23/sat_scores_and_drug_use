@@ -45,7 +45,7 @@ Score | Expectations
 **1** | _Meets expectations. Good job._
 **2** | _Surpasses expectations. Brilliant!_
 
-[For more information on how we grade our DSI projects, see our project grading walkthrough.](https://git.generalassemb.ly/dsi-projects/readme/blob/master/README.md)
+[For more information on how we grade our DSI projects, see our project grading walkthrough.](https://git.generalassemb.ly/DSI-EAST-1/course-info/blob/master/projects/project_1/grading.md)
 
 ---
 
