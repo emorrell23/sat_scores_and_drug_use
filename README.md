@@ -42,8 +42,16 @@ For all projects, students will be evaluated on a simple 3 point scale (0, 1, or
 Score | Expectations
 ----- | ------------
 **0** | _Does not meet expectations. Try again._
-**1** | _Meets expectations. Good job._
-**2** | _Surpasses expectations. Brilliant!_
+**1** | _Approaching expectations. Getting there..._
+**2** | _Meets expecations. Great job._
+**3** | _Surpasses expectations. Brilliant!_
+
+For project 1 the evaluation categories are as follows:
+
+- **Organization**:	Clearly commented, annotated and sectioned Jupyter notebook or Python script.  Comments and annotations add clarity, explanation and intent to the work.  Notebook is well-structured with title, author and sections. Assumptions are stated and justified.
+- **Charting**:	Charts (from Pandas, Matplotlib, and Seaborn) are created and used correctly. The appropriate charts are used in context.  Charts are created and accessed using appropriate mechanisms.
+- **Probability and Statistics**:	Descriptive and inferential statistics are calculated and applied where appropriate.  Probabilistic reasoning is demonstrated.  There is a clear understanding of how probability and statistics affects the analysis being performed.
+- **Pandas**: 	Appropriate pandas methods are used in answering questions. 
 
 [For more information on how we grade our DSI projects, see our project grading walkthrough.](https://git.generalassemb.ly/DSI-EAST-1/course-info/blob/master/projects/project_1/grading.md)
 
