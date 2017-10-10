@@ -53,8 +53,6 @@ For project 1 the evaluation categories are as follows:
 - **Probability and Statistics**:	Descriptive and inferential statistics are calculated and applied where appropriate.  Probabilistic reasoning is demonstrated.  There is a clear understanding of how probability and statistics affects the analysis being performed.
 - **Pandas**: 	Appropriate pandas methods are used in answering questions. 
 
-[For more information on how we grade our DSI projects, see our project grading walkthrough.](https://git.generalassemb.ly/DSI-EAST-1/course-info/blob/master/projects/project_1/grading.md)
-
 ---
 
 ## Useful Resources
