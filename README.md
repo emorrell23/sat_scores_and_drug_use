@@ -23,6 +23,22 @@ We will be looking for the following things:
 
 ---
 
+## Dataset Description
+
+---
+
+drug-use-by-age.csv
+
+- 17 rows, 28 columns (imported)
+- n is sample size (number of people in age group)
+
+sat_scores.csv
+
+- 53 rows, 4 columns
+- Rate is the participation rate, 0-100%
+
+---
+
 ## Requirements
 
 - Materials must be in a clearly commented Jupyter notebook.
